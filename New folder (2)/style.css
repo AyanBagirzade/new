@@ -1,0 +1,13 @@
+.container{
+    width: 80%;
+    margin: auto;
+    
+}
+.second{
+display: flex;
+justify-content: space-between;
+}
+.third {
+    display: flex;
+    justify-content: space-between;
+}
